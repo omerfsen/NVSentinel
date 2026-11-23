@@ -58,6 +58,7 @@ GO_MODULES := \
 	metadata-collector \
 	event-exporter \
 	store-client \
+	mcp-server \
 	commons
 
 
