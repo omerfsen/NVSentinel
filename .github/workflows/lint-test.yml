@@ -211,6 +211,7 @@ jobs:
           - fault-remediation
           - janitor
           - lifecycle-manager
+          - mcp-server
           - preflight
           - tests
     steps:
